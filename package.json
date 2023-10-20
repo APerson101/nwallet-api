@@ -1,0 +1,20 @@
+{
+  "name": "nwallet-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@multiversx/sdk-core": "^12.11.0",
+    "@multiversx/sdk-network-providers": "^2.0.0",
+    "@multiversx/sdk-wallet": "^4.2.0",
+    "axios": "^1.5.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
